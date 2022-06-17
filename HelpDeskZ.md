@@ -48,19 +48,24 @@ Desde aquí, podremos configurar desde la app “laravel panel” o “CPanel”
 
 Es un sistema muy flexible puesto que permite todo tipo de uso tanto desde la interfaz gráfica como desde la propia terminal o cmd. 
 En el móvil, podremos instalar un “file manager”
+
 ![Imagen2](imagen/Imagen2.png)
 
 Para poder enviar las incidencias.
 Podremos acceder también desde la web que habremos asignado en la instalación.
+
 ![Imagen3](imagen/Imagen3.png)
  
 Podremos crear una respuesta al ticket enviado directamente.
+
 ![Imagen4](imagen/Imagen4.png)
 
 Podremos crear un departamento para enviar dichos tickets o subdividir nuestro dominio.
+
 ![Imagen5](imagen/Imagen5.png)
 
 O directamente el ticket con una etiqueta de nombre.
+
 ![Imagen6](imagen/Imagen6.png)
 
 
@@ -102,6 +107,7 @@ Crearemos un ticket por ejemplo.
 
 El motivo es estándar del historial de motivos.
 Y veremos si en el “dashboard” nos sale como aceptada.
+
 ![Imagen14](imagen/Imagen14.png)
 
 Como vemos, nos sale como un ticket abierto o incidencia abierta.
@@ -113,6 +119,7 @@ Es licencia de código abierto por lo que lo puede usar todo el mundo, pero tien
 **Idiomas**
 
 Los idiomas son flexibles, actualmente no están todos, pero en abril de 2021, se pudo añadir al plantel el brasileño y el francés.
+
 ![Imagen15](imagen/Imagen15.png)
 
 En “crear idioma” podremos acceder a la base de datos y mediante ella, cambiar dicho idioma.
